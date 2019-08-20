@@ -1,6 +1,6 @@
 {
   "name": "vortexgl",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "A utility for node development.",
   "main": "src/vortex.js",
   "scripts": {},
@@ -8,5 +8,9 @@
   "keywords": [
     "vortex", "vector", "vector3", "gamelibrary", "game-library"
   ],
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/astronomizedev/vortexgl"
+  },
   "license": "ISC"
 }
